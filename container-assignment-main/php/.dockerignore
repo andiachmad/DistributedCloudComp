@@ -1,0 +1,10 @@
+node_modules
+storage/*
+bootstrap/cache/*
+tests
+*.log
+*.md
+*.xml
+Dockerfile
+.dockerignore
+.vscode

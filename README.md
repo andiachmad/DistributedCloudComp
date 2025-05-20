@@ -1,2 +1,2 @@
-# DistributedCloudComp
-All Assignment DCC Assignment 
+# Distributed Cloud Computing
+ 
